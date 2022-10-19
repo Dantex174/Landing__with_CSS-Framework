@@ -30,3 +30,10 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'American Captain';
+    src: local('American Captain Regular'), local('American-Captain-Regular'),
+        url('fonts/AmericanCaptain.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
